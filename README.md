@@ -1,4 +1,7 @@
 
+https://www.figma.com/slides/u3C0ErhYV8KfTEK23pbCGU/ml-and-db?node-id=1-42&t=IeTP5sXAXklE7uvY-1
+
+
 ### 1. Isolation Forest
 ```python
 iso_forest = IsolationForest(
